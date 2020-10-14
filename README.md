@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/gizmofalcon" target="blank"><img src="https://img.shields.io/twitter/follow/gizmofalcon?logo=twitter&style=for-the-badge" alt="gizmofalcon" /></a> </p>
 
-- 🌱 I’m currently learning **React and vanilla JS**
-
 - 👨‍💻 All of my projects are available at [sourabhdaroji.com](sourabhdaroji.com)
 
 - 📝 I regulary write articles on [sourabhdaroji.com/blog](sourabhdaroji.com/blog)
 
 - 📫 How to reach me **sourabhdaroji@gmail.com**
 
-### Blogs posts
+### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [A simple post](https://sourabhdaroji.com/posts/a-simple-post/)
 - [A post with figures and video](https://sourabhdaroji.com/posts/a-post-with-figures-and-video/)
