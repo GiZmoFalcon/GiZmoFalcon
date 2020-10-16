@@ -11,11 +11,9 @@
 
 ### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [/u/GiZmoFalcon on data_irl](https://www.reddit.com/r/data_irl/comments/ivx2xe/data_irl/g5y3aij/)
-- [/u/GiZmoFalcon on data_irl](https://www.reddit.com/r/data_irl/comments/israuz/data_irl/g5c8vdl/)
-- [/u/GiZmoFalcon on data_irl](https://www.reddit.com/r/data_irl/comments/israuz/data_irl/g5c8l2f/)
-- [/u/GiZmoFalcon on data_irl](https://www.reddit.com/r/data_irl/comments/israuz/data_irl/g5bisfz/)
-- [/u/GiZmoFalcon on New mood swing 'HOMEPLATE' ?](https://www.reddit.com/r/TheBoys/comments/iqjmvp/new_mood_swing_homeplate/g4st4gq/)
+- [A simple post](https://sourabhdaroji.com/posts/a-simple-post/)
+- [A post with figures and video](https://sourabhdaroji.com/posts/a-post-with-figures-and-video/)
+- [A post with code samples](https://sourabhdaroji.com/posts/a-post-with-code-samples/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
