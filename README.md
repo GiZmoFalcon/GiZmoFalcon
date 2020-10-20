@@ -11,7 +11,7 @@
 
 ### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [The second reason why JioTV may most certainly fail.](https://sourabhdaroji.com/posts/a-simple-post/)
+- [The second reason why JioTV may most certainly fail.](https://sourabhdaroji.com/posts/the-jio-tv-remote/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
