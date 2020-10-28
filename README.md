@@ -11,6 +11,7 @@
 
 ### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Intersection Observer API to make button's styling contextual.](https://sourabhdaroji.com/posts/using-intersection-observer-to-make-button-s-styling-contextual/)
 - [The second reason why JioTV may most certainly fail.](https://sourabhdaroji.com/posts/the-jio-tv-remote/)
 - [A Greeting Card with a twist!](https://sourabhdaroji.com/posts/a-greeting-card-with-a-twist/)
 <!-- BLOG-POST-LIST:END -->
