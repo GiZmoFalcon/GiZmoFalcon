@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [sourabhdaroji.com](https://sourabhdaroji.com)
 
-- 📝 I regulary write articles on [sourabhdaroji.com/blog](https://sourabhdaroji.com/blog)
+- 📝 I regulary write articles on [sourabhdaroji.com/posts](https://sourabhdaroji.com/posts)
 
 - 📫 How to reach me **sourabhdaroji@gmail.com**
 
