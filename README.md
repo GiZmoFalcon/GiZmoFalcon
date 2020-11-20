@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gizmofalcon" target="blank"><img src="https://img.shields.io/twitter/follow/gizmofalcon?logo=twitter&style=for-the-badge" alt="gizmofalcon" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sourabhdaroji.com](sourabhdaroji.com)
+- 👨‍💻 All of my projects are available at [sourabhdaroji.com](https://sourabhdaroji.com)
 
-- 📝 I regulary write articles on [sourabhdaroji.com/blog](sourabhdaroji.com/blog)
+- 📝 I regulary write articles on [sourabhdaroji.com/blog](https://sourabhdaroji.com/blog)
 
 - 📫 How to reach me **sourabhdaroji@gmail.com**
 
