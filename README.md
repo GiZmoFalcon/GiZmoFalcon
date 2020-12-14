@@ -7,8 +7,6 @@
 
 - 📝 I regulary write articles on [sourabhdaroji.com/posts](https://sourabhdaroji.com/posts)
 
-- 📫 How to reach me **sourabhdaroji@gmail.com**
-
 ### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [Using Intersection Observer API to make button styling contextual.](https://sourabhdaroji.com/posts/using-intersection-observer-to-make-button-s-styling-contextual/)
