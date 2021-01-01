@@ -9,7 +9,7 @@
 
 ### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [The ingenuity of the sync subtitles feature on VLC for Android](https://sourabhdaroji.com/posts/the-ingenuity-of-the-sync-subtitles-feature-on-vlc-for-android/)
+- [The ingenious new sync subtitles feature on VLC for Android](https://sourabhdaroji.com/posts/the-ingenuity-of-the-sync-subtitles-feature-on-vlc-for-android/)
 - [Using Intersection Observer API to make button styling contextual.](https://sourabhdaroji.com/posts/using-intersection-observer-to-make-button-s-styling-contextual/)
 - [The second reason why JioTV may most certainly fail.](https://sourabhdaroji.com/posts/the-jio-tv-remote/)
 - [A Greeting Card with a twist!](https://sourabhdaroji.com/posts/a-greeting-card-with-a-twist/)
