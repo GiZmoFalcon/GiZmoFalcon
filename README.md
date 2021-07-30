@@ -9,11 +9,11 @@
 
 ### 📖 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I rebuilt my Portfolio+Blog website.](https://sourabhdaroji.com/posts/how-i-rebuilt-my-portfolio-blog-website/)
-- [The ingenious new sync subtitles feature on VLC for Android.](https://sourabhdaroji.com/posts/the-ingenuity-of-the-sync-subtitles-feature-on-vlc-for-android/)
-- [Using Intersection Observer API to make button styling contextual.](https://sourabhdaroji.com/posts/using-intersection-observer-to-make-button-s-styling-contextual/)
-- [The second reason why JioTV may most certainly fail.](https://sourabhdaroji.com/posts/the-jio-tv-remote/)
-- [A Greeting Card with a twist!](https://sourabhdaroji.com/posts/a-greeting-card-with-a-twist/)
+- [A Greeting Card with a twist!](https://sourabhdaroji.com/blog/a-greeting-card-with-a-twist)
+- [How I rebuilt my (OLD) Portfolio+Blog website.](https://sourabhdaroji.com/blog/how-i-built-my-portfolio-blog-website)
+- [The ingenious new sync subtitles feature on VLC for Android.](https://sourabhdaroji.com/blog/vlc-subtitles-sync)
+- [Using Intersection Observer API to make button styling contextual.](https://sourabhdaroji.com/blog/using-intersection-observer-api-to-make-button-styling-contextual)
+- [The second reason why JioTV may most certainly fail.](https://sourabhdaroji.com/blog/jio-tv-remote)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
