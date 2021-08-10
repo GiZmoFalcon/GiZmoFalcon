@@ -9,7 +9,6 @@
 
 - 📝 I regulary write articles on [sourabhdaroji.com/blog](sourabhdaroji.com/blog)
 
-- 📫 How to reach me **darojisourabh@ymail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +24,7 @@
 <a href="https://dev.to/gizmofalcon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gizmofalcon" height="30" width="40" /></a>
 <a href="https://twitter.com/gizmofalcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gizmofalcon" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gizmofalcon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gizmofalcon" height="30" width="40" /></a>
-<a href="/https://sourabhdaroji.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sourabhdaroji.com/feed.xml" height="30" width="40" /></a>
+<a href="https://sourabhdaroji.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sourabhdaroji.com/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
