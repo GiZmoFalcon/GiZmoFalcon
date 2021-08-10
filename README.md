@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [sourabhdaroji.com/blog](sourabhdaroji.com/blog)
 
-- 📫 How to reach me **sourabhdaroji@gmail.com**
+- 📫 How to reach me **darojisourabh@ymail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
