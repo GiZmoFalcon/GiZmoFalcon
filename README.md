@@ -12,11 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GrubHub Android App — Heuristic Evaluation](https://sourabhdaroji.com/blog/grubhub-android-app-heuristic-evaluation)
 - [MuscleWiki — Usability Evaluation](https://sourabhdaroji.com/blog/musclewiki-usability-evaluation)
 - [A Greeting Card with a twist!](https://sourabhdaroji.com/blog/a-greeting-card-with-a-twist)
 - [How I rebuilt my &lpar;OLD&rpar; Portfolio+Blog website.](https://sourabhdaroji.com/blog/how-i-built-my-portfolio-blog-website)
 - [The ingenious new sync subtitles feature on VLC for Android.](https://sourabhdaroji.com/blog/vlc-subtitles-sync)
-- [Using Intersection Observer API to make button styling contextual.](https://sourabhdaroji.com/blog/using-intersection-observer-api-to-make-button-styling-contextual)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
